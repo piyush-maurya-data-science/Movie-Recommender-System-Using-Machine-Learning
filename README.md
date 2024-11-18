@@ -57,6 +57,12 @@ For more details, visit the [Movie Recommender System]( https://movies-recommend
 
 # Demo:
 
+<img width="1580" alt="Screenshot 2024-11-19 at 1 15 05 AM" src="https://github.com/user-attachments/assets/d5dff040-8abe-44e1-ad92-13ceef23c64c">
+<img width="1580" alt="Screenshot 2024-11-19 at 1 20 35 AM" src="https://github.com/user-attachments/assets/d2269902-8244-4678-8b81-d6bbac702e0e">
+<img width="1580" alt="Screenshot 2024-11-19 at 1 22 57 AM" src="https://github.com/user-attachments/assets/54d67538-8b8d-4da7-971b-3be83e821634">
+<img width="1580" alt="Screenshot 2024-11-19 at 1 27 02 AM" src="https://github.com/user-attachments/assets/6a1ed246-0859-4929-ad8d-a9a49b61360d">
+
+
 # Dataset been used:
 [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
